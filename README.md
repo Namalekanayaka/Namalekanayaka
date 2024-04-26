@@ -1,6 +1,6 @@
-<center>
-<img align="center" height="200" src="https://github.com/Namalekanayaka/Namalekanayaka/assets/167014665/820ce1aa-9cd5-4b94-b947-854b82c37f40 "/>
-</center>
+<p align="center" width="100%">
+  <img height="200" src="https://github.com/Namalekanayaka/Namalekanayaka/assets/167014665/820ce1aa-9cd5-4b94-b947-854b82c37f40 "/>
+</p>
 
 
 
