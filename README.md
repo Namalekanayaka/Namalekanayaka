@@ -111,23 +111,7 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
 </div>
 
 <!-- Personal Connect Section -->
-<div align="center">
-  <h2>💬 Let's Be Friends!</h2>
-  <p><em>I love connecting with fellow developers, learners, and anyone passionate about tech!</em></p>
-  
-  <a href="mailto:namalekanayake412@gmail.com">
-    <img src="https://img.shields.io/badge/Drop_me_a_line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/namalekanayaka" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/namalekanayaka" target="_blank">
-    <img src="https://img.shields.io/badge/Check_out_my_work-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <br/><br/>
-  <p>💡 <em>Got a cool project idea? Want to collaborate? Or just want to chat about code over virtual coffee? I'm always up for it!</em></p>
-</div>
+
 
 <!-- Personal Footer -->
 <div align="center">
