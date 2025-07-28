@@ -90,44 +90,11 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
   </tr>
 </table>
 
-<div align="center">
-  <h3>🌟 All My Skills at a Glance</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,react,bootstrap,mysql,figma,git,vscode&theme=dark" alt="All Skills" />
-</div>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <h2>📊 My GitHub Story</h2>
-  <p><em>Here's what I've been up to in the coding world!</em></p>
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=namalekanayaka&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Namal's%20GitHub%20Journey" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=namalekanayaka&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namalekanayaka&layout=compact&theme=radical&hide_border=true&custom_title=Languages%20I%20Love%20Working%20With" alt="Top Languages" />
-</div>
 
-<!-- Personal Connect Section -->
-<div align="center">
-  <h2>💬 Let's Be Friends!</h2>
-  <p><em>I love connecting with fellow developers, learners, and anyone passionate about tech!</em></p>
-  
-  <a href="mailto:namalekanayake412@gmail.com">
-    <img src="https://img.shields.io/badge/Drop_me_a_line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/namalekanayaka" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/namalekanayaka" target="_blank">
-    <img src="https://img.shields.io/badge/Check_out_my_work-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <br/><br/>
-  <p>💡 <em>Got a cool project idea? Want to collaborate? Or just want to chat about code over virtual coffee? I'm always up for it!</em></p>
-</div>
+
 
 <!-- Personal Footer -->
 <div align="center">
