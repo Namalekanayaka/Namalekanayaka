@@ -110,13 +110,6 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namalekanayaka&layout=compact&theme=radical&hide_border=true&custom_title=Languages%20I%20Love%20Working%20With" alt="Top Languages" />
 </div>
 
-<!-- Activity Graph with Better Display -->
-<div align="center">
-  <h2>📈 My Coding Journey</h2>
-  <p><em>Every green square tells a story of late nights, breakthroughs, and lots of coffee! ☕</em></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namalekanayaka&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
-</div>
-
 <!-- Personal Connect Section -->
 <div align="center">
   <h2>💬 Let's Be Friends!</h2>
