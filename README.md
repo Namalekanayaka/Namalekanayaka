@@ -36,10 +36,10 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
 😄 **Fun fact:** People call me a ninja 🥷 (probably because I debug in the shadows!)
 
 ### 🎯 What Drives Me
-- 💡 **Problem Solving** - I love the "aha!" moment when everything clicks
-- 🎨 **Creative Coding** - Making the web more beautiful, one pixel at a time
-- 🌍 **Impact** - Building things that actually help people
-- 🤝 **Community** - Sharing knowledge and learning from others
+- 💡 **Problem Solving** - I love the "aha!" moment when everything clicks  
+- 🎨 **Creative Coding** - Making the web more beautiful, one pixel at a time  
+- 🌍 **Impact** - Building things that actually help people  
+- 🤝 **Community** - Sharing knowledge and learning from others  
 
     </td>
     <td valign="top" width="45%">
@@ -95,7 +95,7 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
   <img src="https://skillicons.dev/icons?i=html,css,js,c,react,bootstrap,mysql,figma,git,vscode&theme=dark" alt="All Skills" />
 </div>
 
-<!-- GitHub Stats with Better Layout -->
+<!-- GitHub Stats -->
 <div align="center">
   <h2>📊 My GitHub Story</h2>
   <p><em>Here's what I've been up to in the coding world!</em></p>
@@ -127,12 +127,6 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
   
   <br/><br/>
   <p>💡 <em>Got a cool project idea? Want to collaborate? Or just want to chat about code over virtual coffee? I'm always up for it!</em></p>
-</div>
-
-<!-- Inspirational Quote -->
-<div align="center">
-  <h2>💭 Today's Inspiration</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
 </div>
 
 <!-- Personal Footer -->
