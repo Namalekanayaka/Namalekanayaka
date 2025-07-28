@@ -98,7 +98,7 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
 
 <!-- Personal Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer" />
+  
   
   <h3>🌟 Thanks for stopping by!</h3>
   <p>
