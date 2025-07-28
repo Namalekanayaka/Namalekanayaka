@@ -49,11 +49,11 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
 *Currently vibing to lo-fi beats while coding* 🎧
 
 ### ☕ Fun Stats
-- **Coffee consumed:** Too many to count ☕
-- **Late night commits:** More than I'd like to admit 🌙
-- **Bugs fixed:** Countless (and counting!) 🐛
+- **Coffee consumed:** Too many to count ☕  
+- **Late night commits:** More than I'd like to admit 🌙  
+- **Bugs fixed:** Countless (and counting!) 🐛  
 - **"It works on my machine":** Daily 😅
-      
+
     </td>
   </tr>
 </table>
@@ -140,14 +140,6 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
 <div align="center">
   <h2>💭 Today's Inspiration</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
-</div>
-
-<!-- Snake Animation with Better Description -->
-<div align="center">
-  <h2>🐍 Watch My Code Snake in Action!</h2>
-  <p><em>This little guy eats all my contributions - kinda like how I devour new coding challenges! 😄</em></p>
-  
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <!-- Personal Footer -->
