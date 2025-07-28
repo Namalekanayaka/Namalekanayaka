@@ -10,8 +10,8 @@
 
 <!-- Friendly Stats -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=namalekanayaka&style=flat-square&color=4ECDC4&label=Friends+who+visited" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/namalekanayaka?style=flat-square&color=FF6B6B&labelColor=1c1917&label=Amazing+people+following" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=namalekanayaka&style=for-the-badge&color=4ECDC4&label=Friends+who+visited" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/namalekanayaka?style=for-the-badge&color=FF6B6B&labelColor=1c1917&label=Amazing+people+following" alt="Followers" />
 </div>
 
 <br />
@@ -112,13 +112,13 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
   <p><em>I love connecting with fellow developers, learners, and anyone passionate about tech!</em></p>
   
   <a href="mailto:namalekanayake412@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Drop me a line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Drop_me_a_line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/namalekanayaka" target="_blank">
-    <img src="https://img.shields.io/badge/🤝 Let's connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/namalekanayaka" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Check out my work-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Check_out_my_work-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
   <br/><br/>
