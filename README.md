@@ -58,26 +58,41 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
   </tr>
 </table>
 
-<!-- Tech Stack with Personal Touch -->
+<!-- Tech Stack with Better Structure -->
 <div align="center">
   <h2>🛠️ My Digital Toolbox</h2>
   <p><em>These are the tools that help me bring ideas to life!</em></p>
-  
-  ### 💬 Languages I Speak (To Computers)
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&title=The backbone of the web" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&title=Making things pretty" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&title=The magic happens here" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&title=Where it all started" alt="C" />
-  
-  ### 🚀 Frameworks & Libraries I Love
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&title=My current obsession" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&title=Quick and beautiful" alt="Bootstrap" />
-  
-  ### 🗃️ Tools That Make Life Easier
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&title=Data organization ninja" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&title=Where designs come alive" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&title=Time travel for code" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&title=My second home" alt="VS Code" />
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>💬 Languages</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,c&perline=2" alt="Languages" />
+      </p>
+      <p><strong>HTML5 • CSS3<br/>JavaScript • C</strong></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 Frameworks</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,bootstrap&perline=2" alt="Frameworks" />
+      </p>
+      <p><strong>React • Bootstrap</strong></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🗃️ Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql,figma,git,vscode&perline=2" alt="Tools" />
+      </p>
+      <p><strong>MySQL • Figma<br/>Git • VS Code</strong></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>🌟 All My Skills at a Glance</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,react,bootstrap,mysql,figma,git,vscode&theme=dark" alt="All Skills" />
 </div>
 
 <!-- GitHub Stats with Personality -->
@@ -158,8 +173,8 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
   </p>
   
   <p>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
     <em>Happy coding, friend!</em> 
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
   </p>
 </div>
