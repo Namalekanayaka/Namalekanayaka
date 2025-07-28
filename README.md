@@ -95,30 +95,26 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
   <img src="https://skillicons.dev/icons?i=html,css,js,c,react,bootstrap,mysql,figma,git,vscode&theme=dark" alt="All Skills" />
 </div>
 
-<!-- GitHub Stats with Personality -->
+<!-- GitHub Stats with Better Layout -->
 <div align="center">
   <h2>📊 My GitHub Story</h2>
   <p><em>Here's what I've been up to in the coding world!</em></p>
-  
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=namalekanayaka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&count_private=true&custom_title=Namal's GitHub Journey" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=namalekanayaka&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namalekanayaka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff&custom_title=Languages I've Been Playing With" alt="Top Languages" width="50%" />
 </div>
 
-<!-- Activity Graph with Personal Touch -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=namalekanayaka&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Namal's%20GitHub%20Journey" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=namalekanayaka&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namalekanayaka&layout=compact&theme=radical&hide_border=true&custom_title=Languages%20I%20Love%20Working%20With" alt="Top Languages" />
+</div>
+
+<!-- Activity Graph with Better Display -->
 <div align="center">
   <h2>📈 My Coding Journey</h2>
   <p><em>Every green square tells a story of late nights, breakthroughs, and lots of coffee! ☕</em></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namalekanayaka&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=ffffff&area=true&hide_border=true&custom_title=Namal's Year in Code" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namalekanayaka&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
 
 <!-- Personal Connect Section -->
@@ -146,15 +142,12 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
 </div>
 
-<!-- Snake Animation with Story -->
+<!-- Snake Animation with Better Description -->
 <div align="center">
   <h2>🐍 Watch My Code Snake in Action!</h2>
   <p><em>This little guy eats all my contributions - kinda like how I devour new coding challenges! 😄</em></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namalekanayaka/namalekanayaka/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namalekanayaka/namalekanayaka/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/namalekanayaka/namalekanayaka/output/github-contribution-grid-snake.svg">
-  </picture>
+  
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <!-- Personal Footer -->
@@ -170,11 +163,5 @@ Hey! I'm Namal, and I'm absolutely **passionate** about creating digital experie
   <p>
     Made with lots of ❤️, countless ☕, and a sprinkle of ✨ by <strong>Namal</strong><br/>
     <small>🇱🇰 Proudly coding from the pearl of the Indian Ocean</small>
-  </p>
-  
-  <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
-    <em>Happy coding, friend!</em> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
   </p>
 </div>
